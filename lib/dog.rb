@@ -1,8 +1,8 @@
-class Dog {}
+class Dog
   
 end
 
-class Person {}
+class Person
   
 end
 
